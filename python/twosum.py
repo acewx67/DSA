@@ -8,6 +8,7 @@ def ques():
         else:
             numsmap[nums[i]] = i
     return [-1, -1]
+
 print(ques())
 
 
